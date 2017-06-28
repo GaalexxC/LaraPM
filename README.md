@@ -12,6 +12,32 @@ The structure will follow standard Laravel 5.4 structure IE: "app" being the roo
 A user database table is necessary obviously, thios is not included, the migrations and seeds will be for the messenger app specific and will not effect your current apps database structure ( Hopefully :) )
 So basically this will be yours and part of your app natively to alter any which way you want
 
+Default Structure (overall)
+* app
+* bootstrsp
+* config
+* database
+* public
+* resources
+* routes
+* stroage
+* tests
+* vendor
+
+What will be needed for messenger app
+
+* app
+   * Console
+   * Events
+   * Exceptions  
+   * Helpers
+   * Http
+   * Listeners  
+   * Models
+   * ....
+   
+   I think you get the idea, pretty basic structure. Dont worry if you dont have the folders necessary they will be created by the application install
+   
 ## Features Short List
 
 User end
