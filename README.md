@@ -39,7 +39,7 @@ Hope to have a beta commit in a week or so
 
 ## Teaser
 
-Screens of a fully functional AJAX Pages version but the will be a static version as well.
+Screens of a fully functional AJAX Pages version but there will be a standard PHP version as well.
 
 ![messenger-info](https://github.com/GaryCornell/Laravel-5.4x-Private-Messenger/blob/master/demo/messenger.png)
 
