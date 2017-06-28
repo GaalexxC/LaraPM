@@ -22,7 +22,7 @@ User end
 - Signature field
 - Privacy settings
 - Attachments
-= More...
+- More...
 
 Admin end
 -Turn of off for users
