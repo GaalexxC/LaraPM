@@ -26,7 +26,7 @@ User end
 - More...
 
 Admin end
--Turn of off for users
+- Turn on / off for users
 - Limit per user by disk space or message count
 - Select attachment extensions/mime
 - Basically full control on how the user can use the app
