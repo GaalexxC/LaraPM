@@ -66,7 +66,7 @@ As I get closer to a release I will post full list of features
 
 ## In development
 
-Hope to have a beta commit in a week or so
+Hope to have a beta commit as soon as I am happy with the coverage
 
 ## Teaser
 
