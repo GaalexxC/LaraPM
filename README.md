@@ -20,7 +20,7 @@ Default Structure (overall)
 * config :heavy_check_mark:
 * database :heavy_check_mark:
 * public :heavy_check_mark:
-* resources
+* resources (Layout view is up to you)
 * routes :heavy_check_mark:
 * stroage
 * tests
