@@ -12,14 +12,16 @@ The structure will follow standard Laravel 5.4 structure IE: "app" being the roo
 A user database table is necessary obviously, this is not included becasue as stated this drops into an already functioning app with existing users. The database migrations and seeds will be for the messenger app specific and will not effect or alter your current apps database structure. The messenger tables rely on user ID obviously to avoid altering your tables in anyway. Total message count and disk space usage (Largely attachements not messages) will be calculated from user ID.
 So basically this will be yours and part of your app natively to alter any which way you want
 
+:heavy_check_mark: = Used for application
+
 Default Structure (overall)
-* app
+* app :heavy_check_mark:
 * bootstrsp
-* config
-* database
-* public
+* config :heavy_check_mark:
+* database :heavy_check_mark:
+* public :heavy_check_mark:
 * resources
-* routes
+* routes :heavy_check_mark:
 * stroage
 * tests
 * vendor
