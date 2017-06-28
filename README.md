@@ -32,9 +32,13 @@ What will be needed for messenger app
    * Exceptions  
    * Helpers
    * Http
+      * Controllers
    * Listeners  
    * Models
-   * ....
+   * Notifications
+   * Providers
+   * Repositories
+   * Services
    
    I think you get the idea, pretty basic structure. Dont worry if you dont have the folders necessary they will be created by the application install
    
