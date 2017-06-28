@@ -56,6 +56,7 @@ User end
 - Signature field
 - Privacy settings
 - Attachments
+- Emojis
 - More...
 
 Admin end
