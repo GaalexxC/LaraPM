@@ -30,7 +30,7 @@ What will be needed for messenger app
    * Console
    * Events
    * Exceptions  
-   * Helpers
+   * Helpers (or helpers.php below)
    * Http
       * Controllers
    * Listeners  
@@ -39,6 +39,7 @@ What will be needed for messenger app
    * Providers
    * Repositories
    * Services
+   * helpers.php
    
    I think you get the idea, pretty basic structure. Dont worry if you dont have the folders necessary they will be created by the application install
    
