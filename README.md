@@ -60,7 +60,7 @@ User end
 
 Admin end
 - Turn on / off for users
-- Limit per user by disk space(attachment size total) or message count
+- Limit per user by disk space(attachment size total) and/or message count or no limit
 - Select attachment extensions/mime
 - Basically full control on how the user can use the app
 
