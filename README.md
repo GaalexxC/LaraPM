@@ -28,18 +28,18 @@ What will be needed for messenger app
 
 * app
    * Console
-   * Events 
-   * Exceptions :white_check_mark:
+   * Events (Optional mainly for support applications, privacy issues abound here)
+   * Exceptions :heavy_check_mark:
    * Helpers (or helpers.php below)
    * Http
-      * Controllers :white_check_mark:
+      * Controllers :heavy_check_mark:
    * Listeners  
-   * Models :white_check_mark:
-   * Notifications :white_check_mark:
-   * Providers :white_check_mark:
+   * Models :heavy_check_mark:
+   * Notifications :heavy_check_mark:
+   * Providers :heavy_check_mark:
    * Repositories
-   * Services :white_check_mark:
-   * helpers.php :white_check_mark:
+   * Services :heavy_check_mark:
+   * helpers.php :heavy_check_mark:
    
    I think you get the idea, pretty basic structure. Dont worry if you dont have the folders necessary they will be created by the application install
    
