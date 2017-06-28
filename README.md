@@ -8,7 +8,7 @@ This application will be a drop-in service which means you can drop it in to you
 
 ## Drop-in Laravel Structure
 
-The structure will follow standard Laravel 5.4 structure IE "app" being the root of your applications files providers. services, routes, models, controllers, facades etc. If you are not using "app" as your applications PHP root then some simple editing may be required but since you changed the default "app" folder you are already aware of this.
+The structure will follow standard Laravel 5.4 structure IE: "app" being the root of your applications main PHP files, providers. services, routes, models, controllers, facades etc. If you are not using "app" as your applications main PHP root then some simple editing may be required but since you changed the default "app" folder you are already aware of this.
 A user database table is necessary obviously, thios is not included, the migrations and seeds will be for the messenger app specific and will not effect your current apps database structure ( Hopefully :) )
 So basically this will be yours and part of your app natively to alter any which way you want
 
