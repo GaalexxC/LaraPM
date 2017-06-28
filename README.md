@@ -9,6 +9,7 @@ This application will be a drop-in service which means you can drop it in to you
 ## Drop-in Laravel Structure
 
 The structure will follow standard Laravel 5.4 structure IE providers. services, routes, models, controllers, facades etc
+A user database table is necessary obviously, the migrations and seeds will do the rest and will not effect your current apps database structure ( Hopefully :) )
 So basically this will be yours and part of your app natively to alter any which way you want
 
 ## Features Short List
@@ -38,7 +39,7 @@ Hope to have a beta commit in a week or so
 
 ## Teaser
 
-This is a screen of a fully functional AJAX Pages version but the will be a static version as well.
+Screens of a fully functional AJAX Pages version but the will be a static version as well.
 
 ![messenger-info](https://github.com/GaryCornell/Laravel-5.4x-Private-Messenger/blob/master/demo/messenger.png)
 
