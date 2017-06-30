@@ -49,7 +49,9 @@ What will be needed for messenger app
 
 User end
 - One on one and Multi user messaging
-- Notifications
+- Email Notifications new/responses
+- Live notifications via Toastr or SmartNotifications
+- Extends Header Notifications in user and admin (Badge w/ Message)
 - Custom folder creation
 - Message storage stats and Info
 - Block users
