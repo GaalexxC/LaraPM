@@ -1,6 +1,6 @@
-# Laravel-5.4x Private Messenger
+# LaraPM
 
-A full featured Laravel 5.4x Private Messenger service which includes multi user messaging and conversations. Perfect for any social, support or any other user communication applications.
+A full featured Laravel 5x Private Messenger service which includes multi user messaging and conversations. Perfect for any social, support or any other user communication applications.
 
 ## Laravel App Drop-in Service
 
